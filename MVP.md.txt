@@ -1,0 +1,15 @@
+Page d'acceuil
+
+1. Acces page d'acceuil via menu nav
+2. Acces page recettes catégorisée via menu nav
+3. Acces a une recette random via page d'acceuil
+4. Liste et acces aux 5 dernières recettes et 5 meilleures recettes via page d'acceuil
+5. Acces page contact, mention légales et proposer une recette au bas de la page depuis toutes les pages.
+6. Affichage d'un edito susceptible de changer. 
+
+Page recette
+
+1. Liens menu nav
+2. Liens footer
+3. Liste ingrédients séparés du reste de la recette
+4. Liste d'étapes différenciées par un numéro
